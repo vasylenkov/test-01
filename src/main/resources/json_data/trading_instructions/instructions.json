@@ -1,0 +1,52 @@
+[
+    {
+        "entity" : "3I GRP.",
+        "action" : "S",
+        "agreedFx" : "0.50",
+        "currency" : "SGP",
+        "instructionDate" : "2018-01-24",
+        "settlementDate" : "2018-01-25",
+        "units" : "30",
+        "pricePerUnit" : "925.00"
+    },
+    {
+        "entity" : "A.B.FOOD",
+        "action" : "S",
+        "agreedFx" : "0.22",
+        "currency" : "AED",
+        "instructionDate" : "2016-01-05",
+        "settlementDate" : "2016-01-07",
+        "units" : "450",
+        "pricePerUnit" : "150.5"
+    },
+    {
+        "entity" : "ANTOFAGASTA",
+        "action" : "S",
+        "agreedFx" : "0.22",
+        "currency" : "AED",
+        "instructionDate" : "2016-01-05",
+        "settlementDate" : "2016-01-08",
+        "units" : "352",
+        "pricePerUnit" : "150.5"
+    },
+    {
+        "entity" : "AVIVA",
+        "action" : "B",
+        "agreedFx" : "0.22",
+        "currency" : "AED",
+        "instructionDate" : "2016-01-05",
+        "settlementDate" : "2016-01-08",
+        "units" : "340",
+        "pricePerUnit" : "150.5"
+    },
+    {
+        "entity" : "BP",
+        "action" : "B",
+        "agreedFx" : "0.50",
+        "currency" : "SGP",
+        "instructionDate" : "2016-01-01",
+        "settlementDate" : "2016-01-02",
+        "units" : "200",
+        "pricePerUnit" : "100.25"
+    }
+]

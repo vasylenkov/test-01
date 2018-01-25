@@ -1,0 +1,10 @@
+{
+    "entity" : "3I GRP.",
+    "action" : "S",
+    "agreedFx" : "0.50",
+    "currency" : "SAR",
+    "instructionDate" : "2018-01-24",
+    "settlementDate" : "2018-01-26",
+    "units" : "30",
+    "pricePerUnit" : "925.00"
+}

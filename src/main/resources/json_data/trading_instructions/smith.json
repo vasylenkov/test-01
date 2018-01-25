@@ -1,0 +1,22 @@
+[
+    {
+        "entity" : "BT GROUP",
+        "action" : "S",
+        "agreedFx" : "7.22",
+        "currency" : "GTQ",
+        "instructionDate" : "2016-03-05",
+        "settlementDate" : "2016-03-06",
+        "units" : "20",
+        "pricePerUnit" : "1350.5"
+    },
+    {
+        "entity" : "CARNIVAL",
+        "action" : "B",
+        "agreedFx" : "0.50",
+        "currency" : "SGP",
+        "instructionDate" : "2016-01-01",
+        "settlementDate" : "2016-01-02",
+        "units" : "230",
+        "pricePerUnit" : "100.25"
+    }
+]

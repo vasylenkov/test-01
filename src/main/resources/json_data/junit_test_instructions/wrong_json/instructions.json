@@ -1,0 +1,10 @@
+[{+
+    "entity" : "Oracle 2",
+    "action" : "S",
+    "agreedFx" : "7.22",
+    "currency" : "GTQ",
+    "instructionDate" : "2016-03-05",
+    "settlementDate" : "2016-03-06",
+    "units" : "3",
+    "pricePerUnit" : "1350.5"
+}]
